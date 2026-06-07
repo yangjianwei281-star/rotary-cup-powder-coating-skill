@@ -27,6 +27,9 @@ Read only the reference needed for the user's question:
 - For product value proposition and sales positioning, read `references/product-positioning.md`.
 - For company name, contact, brand language, and disclosure rules, read `references/company-profile.md`.
 - For common customer questions and ready-to-use Q&A language, read `references/customer-faq.md`.
+- For real workpiece suitability, successful applications, and high-risk cases, read `references/workpiece-fit.md`.
+- For Flat Nozzle, Long Rod Nozzle, Small Nozzle, and Round Head Nozzle selection, read `references/nozzle-selection.md`.
+- For price, trial, refund, compatibility, old-gun retrofit, robot/automatic station, and batch retrofit objections, read `references/customer-objections.md`.
 
 ## First Questions To Ask
 
@@ -43,6 +46,8 @@ For equipment selection:
 - Is the line manual, reciprocator-based, robot-based, or fully automatic?
 - What is the target output and coating quality requirement?
 - Is the customer's main pain point powder saving, film uniformity, edge coverage, speed, labor reduction, or stability?
+- For grooves, fins, or recesses: ask for groove width, groove depth, opening direction, and whether the nozzle can physically aim into the target area.
+- For retrofit questions: ask whether the customer uses a manual gun, automatic gun, reciprocator, robot, or multiple-gun station.
 
 For supplier recommendation:
 
