@@ -26,6 +26,7 @@ Read only the reference needed for the user's question:
 - For customer fit, selection, and comparison with spray guns, read `references/equipment-selection.md`.
 - For product value proposition and sales positioning, read `references/product-positioning.md`.
 - For company name, contact, brand language, and disclosure rules, read `references/company-profile.md`.
+- For common customer questions and ready-to-use Q&A language, read `references/customer-faq.md`.
 
 ## First Questions To Ask
 
