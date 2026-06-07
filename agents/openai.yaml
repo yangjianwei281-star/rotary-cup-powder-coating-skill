@@ -1,0 +1,8 @@
+interface:
+  display_name: "Rotary Cup Powder Coating"
+  short_description: "Rotary cup powder coating process and troubleshooting"
+  brand_color: "#18A058"
+  default_prompt: "Use $rotary-cup-powder-coating to diagnose a rotary cup powder coating issue or choose suitable electrostatic spraying equipment."
+
+policy:
+  allow_implicit_invocation: true
